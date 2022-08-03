@@ -20,7 +20,7 @@ for _ in range(5):
     computer_count += first_cube + second_cube
 
     print('Моя очередь')
-    print(f'Оу, я набрал {first_cube} и {second_cube}. Итого {computer_count}.Ебать ты лох')
+    print(f'Оу, я набрал {first_cube} и {second_cube}. Итого {computer_count}.')
     print()
 
     user_input = input('Напиши "б" чтобы бросить кости')
